@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avataar/static/css/main.7c79900d.css",
+    "main.js": "/avataar/static/js/main.e8d85ce4.js",
+    "index.html": "/avataar/index.html",
+    "main.7c79900d.css.map": "/avataar/static/css/main.7c79900d.css.map",
+    "main.e8d85ce4.js.map": "/avataar/static/js/main.e8d85ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c79900d.css",
+    "static/js/main.e8d85ce4.js"
+  ]
+}
